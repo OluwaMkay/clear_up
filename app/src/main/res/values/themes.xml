@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Clear" parent="android:Theme.Wallpaper.NoTitleBar" />
+    <item name="colorPrimary" type="color">#0000FF</item>
+</resources>
